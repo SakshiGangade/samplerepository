@@ -1,2 +1,6 @@
 m1
+<<<<<<< HEAD
 m3 nobbie
+=======
+m2 error
+>>>>>>> b63557eed7d56659af845fa4a2ec564f0009113a
